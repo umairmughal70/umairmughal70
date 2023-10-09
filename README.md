@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @umairmughal70
-- 👀 I’m interested in mathematics
-- 🌱 I’m currently learning SEO and digital marketing
-- 💞️ I’m looking to collaborate on academic curriculum 
+- 👋 Hi, I’m @umairmughal
+- 👀 I’m interested in Data
+- 🌱 I’m currently working as AI engineer 
+- 💞️ I’m looking to collaborate
 - 📫 umairmughal70@gmail.com
 
 
