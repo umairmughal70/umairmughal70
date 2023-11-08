@@ -16,7 +16,7 @@ About Me
 🌟 Open Source: I am a strong advocate for open-source projects and actively contribute to various data science and AI initiatives. Collaboration and knowledge sharing are the cornerstones of my GitHub journey.
 
 Let's Connect
-📫 Contact: If you'd like to collaborate, have a data-related question, or simply want to chat about AI and data science, feel free to reach out to me. You can contact me through GitHub or connect with me on [LinkedIn](linkedin.com\in\umairsabiullah).
+📫 Contact: If you'd like to collaborate, have a data-related question, or simply want to chat about AI and data science, feel free to reach out to me. You can contact me through GitHub or connect with me at umairmughal70@gmail.com
 
 📚 Learning Together: I'm always eager to learn and share knowledge. Let's embark on this data-driven journey together and discover the endless possibilities that data science and artificial intelligence have to offer.
 
